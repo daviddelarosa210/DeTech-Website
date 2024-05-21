@@ -1,1 +1,1 @@
-# DeTechWebsite
+# DeTech-Website
